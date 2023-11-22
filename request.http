@@ -1,0 +1,3 @@
+GET http://localhost:1992/server/time
+###
+GET http://localhost:3000/hello/Arnaud
